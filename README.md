@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming and sport
 - 💡 Skills: HTML, CSS, JavaScript
 - 🌱 I’m currently learning node.js
-🔧 Tools: VS Code, Git, GitHub
-🚀 Current Focus: Expanding my full-stack development skills
+- 🔧 Tools: VS Code, Git, GitHub
+- 🚀 Current Focus: Expanding my full-stack development skills
 - 📫 How to reach me parrinellovalerio@gmail.com
 
 <!---
