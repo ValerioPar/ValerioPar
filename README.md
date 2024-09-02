@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valerio
+- 👋 Hi, I’m Valerio
 - 👀 I’m interested in programming and sport
 - 💡 Skills: HTML, CSS, JavaScript
 - 🌱 I’m currently learning node.js
