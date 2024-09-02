@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valerio
-- 👀 I’m interested in programming and sport
+- 👀 I’m interested in programming and sports
 - 💡 Skills: HTML, CSS, JavaScript
 - 🌱 I’m currently learning node.js
 - 🔧 Tools: VS Code, Git, GitHub
